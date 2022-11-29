@@ -1,0 +1,22 @@
+The Below are the list of API Endpoints that I need for the Merchant Dashboard.
+
+# Auth
+  - Sigin Merchant
+  - Register Merchant
+  - Forgot password Merchant
+
+# Orders
+  - Get Order By ID
+  - Get All Orders
+  - Update Order
+  - Delete Order
+  - Create Order
+  - Search Order
+
+# Products
+  - Get Product By ID
+  - Get All Products
+  - Update Product
+  - Delete Product
+  - Create Product
+  - Search Product
