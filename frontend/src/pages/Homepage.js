@@ -109,7 +109,7 @@ const Homepage = () => {
             </BlockHeadContent>
           </BlockBetween>
         </BlockHead>
-        {/* <Block>
+        <Block>
           <Row className="g-gs">
             <Col xxl="6">
               <SalesStatistics />
@@ -127,7 +127,7 @@ const Homepage = () => {
               <TopProducts />
             </Col>
           </Row>
-        </Block> */}
+        </Block>
       </Content>
     </React.Fragment>
   );

@@ -537,7 +537,7 @@ const ProductList = () => {
             )}
           </PreviewAltCard>
         </Block>
-
+{/*Modal to add A product*/}
         <Modal isOpen={view.edit} toggle={() => onFormCancel()} className="modal-dialog-centered" size="lg">
           <ModalBody>
             <a href="#cancel" className="close">

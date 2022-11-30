@@ -26,7 +26,7 @@ const User = () => {
           <UserAvatar icon="user-alt" className="sm" />
           <div className="user-info d-none d-md-block">
             <div className="user-status">Administrator</div>
-            <div className="user-name dropdown-indicator">Alexander Thuo</div>
+            <div className="user-name dropdown-indicator">Brian Kigen</div>
           </div>
         </div>
       </DropdownToggle>
@@ -37,8 +37,8 @@ const User = () => {
               <span>AB</span>
             </div>
             <div className="user-info">
-              <span className="lead-text">Alexander Thuo</span>
-              <span className="sub-text">info@webmall.com</span>
+              <span className="lead-text">Brian Kigen</span>
+              <span className="sub-text">test@admin.com</span>
             </div>
           </div>
         </div>
